@@ -24,4 +24,4 @@ yarn-error.log*
 
 /data-server
 /build
-/public
+/public/data
